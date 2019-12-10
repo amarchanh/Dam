@@ -1,0 +1,11 @@
+C:\VSProjects\NotasConsola\NotasConsola\bin\Debug\netcoreapp3.0\NotasConsola.exe
+C:\VSProjects\NotasConsola\NotasConsola\bin\Debug\netcoreapp3.0\NotasConsola.deps.json
+C:\VSProjects\NotasConsola\NotasConsola\bin\Debug\netcoreapp3.0\NotasConsola.runtimeconfig.json
+C:\VSProjects\NotasConsola\NotasConsola\bin\Debug\netcoreapp3.0\NotasConsola.runtimeconfig.dev.json
+C:\VSProjects\NotasConsola\NotasConsola\bin\Debug\netcoreapp3.0\NotasConsola.dll
+C:\VSProjects\NotasConsola\NotasConsola\bin\Debug\netcoreapp3.0\NotasConsola.pdb
+C:\VSProjects\NotasConsola\NotasConsola\obj\Debug\netcoreapp3.0\NotasConsola.csprojAssemblyReference.cache
+C:\VSProjects\NotasConsola\NotasConsola\obj\Debug\netcoreapp3.0\NotasConsola.AssemblyInfoInputs.cache
+C:\VSProjects\NotasConsola\NotasConsola\obj\Debug\netcoreapp3.0\NotasConsola.AssemblyInfo.cs
+C:\VSProjects\NotasConsola\NotasConsola\obj\Debug\netcoreapp3.0\NotasConsola.dll
+C:\VSProjects\NotasConsola\NotasConsola\obj\Debug\netcoreapp3.0\NotasConsola.pdb
