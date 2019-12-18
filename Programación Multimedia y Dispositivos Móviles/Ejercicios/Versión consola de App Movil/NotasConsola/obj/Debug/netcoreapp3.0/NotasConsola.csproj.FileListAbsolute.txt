@@ -9,3 +9,14 @@ C:\VSProjects\NotasConsola\NotasConsola\obj\Debug\netcoreapp3.0\NotasConsola.Ass
 C:\VSProjects\NotasConsola\NotasConsola\obj\Debug\netcoreapp3.0\NotasConsola.AssemblyInfo.cs
 C:\VSProjects\NotasConsola\NotasConsola\obj\Debug\netcoreapp3.0\NotasConsola.dll
 C:\VSProjects\NotasConsola\NotasConsola\obj\Debug\netcoreapp3.0\NotasConsola.pdb
+C:\Users\anton\Desktop\Dam\Programación Multimedia y Dispositivos Móviles\Ejercicios\Versión consola de App Movil\NotasConsola\bin\Debug\netcoreapp3.0\NotasConsola.exe
+C:\Users\anton\Desktop\Dam\Programación Multimedia y Dispositivos Móviles\Ejercicios\Versión consola de App Movil\NotasConsola\bin\Debug\netcoreapp3.0\NotasConsola.deps.json
+C:\Users\anton\Desktop\Dam\Programación Multimedia y Dispositivos Móviles\Ejercicios\Versión consola de App Movil\NotasConsola\bin\Debug\netcoreapp3.0\NotasConsola.runtimeconfig.json
+C:\Users\anton\Desktop\Dam\Programación Multimedia y Dispositivos Móviles\Ejercicios\Versión consola de App Movil\NotasConsola\bin\Debug\netcoreapp3.0\NotasConsola.runtimeconfig.dev.json
+C:\Users\anton\Desktop\Dam\Programación Multimedia y Dispositivos Móviles\Ejercicios\Versión consola de App Movil\NotasConsola\bin\Debug\netcoreapp3.0\NotasConsola.dll
+C:\Users\anton\Desktop\Dam\Programación Multimedia y Dispositivos Móviles\Ejercicios\Versión consola de App Movil\NotasConsola\bin\Debug\netcoreapp3.0\NotasConsola.pdb
+C:\Users\anton\Desktop\Dam\Programación Multimedia y Dispositivos Móviles\Ejercicios\Versión consola de App Movil\NotasConsola\obj\Debug\netcoreapp3.0\NotasConsola.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Dam\Programación Multimedia y Dispositivos Móviles\Ejercicios\Versión consola de App Movil\NotasConsola\obj\Debug\netcoreapp3.0\NotasConsola.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\Dam\Programación Multimedia y Dispositivos Móviles\Ejercicios\Versión consola de App Movil\NotasConsola\obj\Debug\netcoreapp3.0\NotasConsola.AssemblyInfo.cs
+C:\Users\anton\Desktop\Dam\Programación Multimedia y Dispositivos Móviles\Ejercicios\Versión consola de App Movil\NotasConsola\obj\Debug\netcoreapp3.0\NotasConsola.dll
+C:\Users\anton\Desktop\Dam\Programación Multimedia y Dispositivos Móviles\Ejercicios\Versión consola de App Movil\NotasConsola\obj\Debug\netcoreapp3.0\NotasConsola.pdb
