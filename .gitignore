@@ -182,3 +182,11 @@ fabric.properties
 ### AndroidStudio Patch ###
 
 !/gradle/wrapper/gradle-wrapper.jar
+
+Acceso a Datos/WS-Neon/.recommenders/
+
+Acceso a Datos/WS-Neon/Unit1/jaxb-ri/
+
+Acceso a Datos/WS2/.metadata/
+
+Acceso a Datos/WS2/.recommenders/

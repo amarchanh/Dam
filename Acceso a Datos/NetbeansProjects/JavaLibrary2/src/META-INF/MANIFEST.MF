@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Name: MyBeans/Product.class
+Java-Bean: True
+
+Name: MyBeans/Order.class
+Java-Bean: True
+
+Name: MyBeans/Sale.class
+Java-Bean: True
+
+Name: MyBeans/DataBase.class
+Java-Bean: False
