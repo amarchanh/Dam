@@ -572,10 +572,12 @@ fabric.properties
 
 !/gradle/wrapper/gradle-wrapper.jar
 
+Acceso a Datos/WS-Neon/.recommenders/
+Acceso a Datos/WS-Neon/Unit1/jaxb-ri/
+Acceso a Datos/WS2/.metadata/
+Acceso a Datos/WS2/.recommenders/
 ### VisualStudio ###
-
 # User-specific files
-
 # User-specific files (MonoDevelop/Xamarin Studio)
 
 # Mono auto generated files
@@ -598,135 +600,135 @@ fabric.properties
 # .NET Core
 
 # StyleCop
-
 # Files built by Visual Studio
+
 
 # Chutzpah Test files
 
 # Visual C++ cache files
-
 # Visual Studio profiler
+
 
 # Visual Studio Trace Files
 
 # TFS 2012 Local Workspace
 
 # Guidance Automation Toolkit
-
 # ReSharper is a .NET coding add-in
 
-# JustCode is a .NET coding add-in
 
+# JustCode is a .NET coding add-in
 # TeamCity is a build add-in
 
-# DotCover is a Code Coverage Tool
 
-# AxoCover is a Code Coverage Tool
 
-# Visual Studio code coverage results
+Sistemas de Gestión Empresarial/odoo_12.0.latest.exe
+# End of https://www.gitignore.io/api/java,csharp,eclipse,visualstudio,androidstudio,visualstudiocode
 
-# NCrunch
+# Backup folder for Package Reference Convert tool in Visual Studio 2017
 
-# MightyMoose
+# BeatPulse healthcheck temp database
 
-# Web workbench (sass)
+# Local History for Visual Studio
+# MFractors (Xamarin productivity tool) working folder
 
-# Installshield output folder
 
-# DocProject is a documentation generator add-in
 
-# Click-Once directory
 
-# Publish Web Output
-# Note: Comment the next line if you want to checkin your web deploy settings,
-# but database connection strings (with potential passwords) will be unencrypted
+# MSBuild Binary and Structured Log
+# NVidia Nsight GPU debugger configuration file
+# Azure Stream Analytics local run output
+# OpenCover UI analysis results
 
-# Microsoft Azure Web App publish settings. Comment the next line if you want to
-# checkin your Azure Web App publish settings, but sensitive information contained
-# in these scripts will be unencrypted
 
-# NuGet Packages
-# NuGet Symbol Packages
-# The packages folder can be ignored because of Package Restore
-# except build/, which is used as an MSBuild target.
-# Uncomment if necessary however generally it will be regenerated when needed
-# NuGet v3's project.json files produces more ignorable files
+# BizTalk build output
 
-# Microsoft Azure Build Output
 
-# Microsoft Azure Emulator
+# Telerik's JustMock configuration file
+# Tabs Studio
 
-# Windows Store app package directories and files
+# !tools/packages.config
+# tools/**
+# Cake - Uncomment if you are using it
 
-# Visual Studio cache files
-# files ending in .cache can be ignored
-# but keep track of directories ending in .cache
+# Python Tools for Visual Studio (PTVS)
 
-# Others
 
-# Including strong name files can present a security risk
-# (https://github.com/github/gitignore/pull/2483#issue-259490424)
+# CodeRush personal settings
+
+# FAKE - F# Make
+# Paket dependency manager
+
+# Visual Studio LightSwitch build output
+
+# Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
+
+# Visual Studio 6 workspace options file
+
+# Visual Studio 6 build log
+
+# Node.js Tools for Visual Studio
+
+# GhostDoc plugin setting file
+
+# Microsoft Fakes
+
+
+# Business Intelligence projects
+# SQL Server files
+
+# because we have git ;-)
+# to a newer Visual Studio version. Backup files are not needed,
+# Backup & report files from converting an old project file
+
+# RIA/Silverlight projects
 
 # Since there are multiple workflows, uncomment next line to ignore bower_components
 # (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
 
-# RIA/Silverlight projects
+# (https://github.com/github/gitignore/pull/2483#issue-259490424)
+# Including strong name files can present a security risk
 
-# Backup & report files from converting an old project file
-# to a newer Visual Studio version. Backup files are not needed,
-# because we have git ;-)
+# Others
 
-# SQL Server files
+# but keep track of directories ending in .cache
+# files ending in .cache can be ignored
+# Visual Studio cache files
 
-# Business Intelligence projects
 
-# Microsoft Fakes
+# Windows Store app package directories and files
+# Microsoft Azure Emulator
 
-# GhostDoc plugin setting file
+# Microsoft Azure Build Output
+# NuGet v3's project.json files produces more ignorable files
 
-# Node.js Tools for Visual Studio
+# Uncomment if necessary however generally it will be regenerated when needed
+# except build/, which is used as an MSBuild target.
+# The packages folder can be ignored because of Package Restore
+# NuGet Symbol Packages
+# NuGet Packages
 
-# Visual Studio 6 build log
+# in these scripts will be unencrypted
+# checkin your Azure Web App publish settings, but sensitive information contained
+# Microsoft Azure Web App publish settings. Comment the next line if you want to
 
-# Visual Studio 6 workspace options file
+# but database connection strings (with potential passwords) will be unencrypted
+# Note: Comment the next line if you want to checkin your web deploy settings,
+# Publish Web Output
 
-# Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
+# Click-Once directory
 
-# Visual Studio LightSwitch build output
+# DocProject is a documentation generator add-in
 
-# Paket dependency manager
+# Installshield output folder
 
-# FAKE - F# Make
+# MightyMoose
+# Web workbench (sass)
 
-# CodeRush personal settings
 
-# Python Tools for Visual Studio (PTVS)
 
-# Cake - Uncomment if you are using it
-# tools/**
-# !tools/packages.config
+# NCrunch
+# Visual Studio code coverage results
 
-# Tabs Studio
-
-# Telerik's JustMock configuration file
-
-# BizTalk build output
-
-# OpenCover UI analysis results
-
-# Azure Stream Analytics local run output
-
-# MSBuild Binary and Structured Log
-
-# NVidia Nsight GPU debugger configuration file
-
-# MFractors (Xamarin productivity tool) working folder
-
-# Local History for Visual Studio
-
-# BeatPulse healthcheck temp database
-
-# Backup folder for Package Reference Convert tool in Visual Studio 2017
-
-# End of https://www.gitignore.io/api/java,csharp,eclipse,visualstudio,androidstudio,visualstudiocode
-Sistemas de Gestión Empresarial/odoo_12.0.latest.exe
+# AxoCover is a Code Coverage Tool
+# DotCover is a Code Coverage Tool
