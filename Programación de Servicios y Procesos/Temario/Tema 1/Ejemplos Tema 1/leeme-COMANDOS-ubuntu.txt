@@ -1,0 +1,16 @@
+SINO VEMOS PANTALLA GRAFICA PARA GESTIONAR USUARIOS
+sudo apt-get install gnome-system-tools
+--
+
+PARA CAMBIAR EL NOMBRE DE LA MÁQUINA MODIFICAR FUCHEROS
+sudo gedit /etc/hosts y /etc/hostname
+
+--
+PARA AÑADIR USUARIO A SUDOERS:
+gedit /etc/sudoers
+
+AÑADIMOS DEBAJO DE root al usuario:
+root ALL=(ALL) ALL
+nombreusuario ALL=(ALL) ALL
+--
+

@@ -1,0 +1,4 @@
+System: Recibe como parametro una cadena de caracteres con el comando a procesar
+Execl: Ejecuta una orden sobre un fichero 
+Fork: Crea procesos a partir de otro
+Pipe: Es un falso fichero que sirve para conectar dos procesos.
