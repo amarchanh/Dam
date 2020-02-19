@@ -1,0 +1,4 @@
+sizeof() -> Devuelve el tamaño de una variable
+& -> Devuelve la direccion en memoria de una variable o metodo
+* -> Devuelve el puntero a la variable
+?: -> Expresion condicional
