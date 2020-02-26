@@ -1,0 +1,5 @@
+URL: http://localhost:8069/web/database/selector
+
+Database Name: SGE
+Email: antonio.marchante1314@gmail.com
+Password: patata123
