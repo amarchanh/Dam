@@ -1,0 +1,1 @@
+Usando los contenidos vistos hasta el momento, realizar la app mostrada en clase. Uso máximo de dos activities.

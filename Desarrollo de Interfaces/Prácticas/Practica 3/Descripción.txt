@@ -1,0 +1,1 @@
+Tomando como base la app desarrollada en la práctica anterior, ajusta el contenido de la misma dentro de un ConstraintLayout, de manera que la app se visualice correctamente tanto si el dispositivo se situa en vertical, como sí se situa en horizontal

@@ -1,0 +1,9 @@
+Desarrollo de una app que incorporé el máximo número de elementos visuales, con sentido, y su comunicación entre ellos. Así mismo la app deberá estar compuesta por un número mínimo de 2 activities.
+
+Los criterios que se tendrán en cuenta serán:
+
+1. Nº de elementos visuales utilizados. (15%)
+2. Código asociado al comportamiento de cada uno de ellos. (50%)
+3. Lógica de funcionamiento de la app. (10%)
+4. Diseño visual y situación de los diferentes views. (10%)
+5. Comunicación entre activities. (15%)

@@ -1,0 +1,1 @@
+Completar la app desarrollada en la clase anterior (Starbuzz), incluir el desarrollo para la opción de menu Foods, su pantalla de lista de elementos y la pantalla de detalle.

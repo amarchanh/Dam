@@ -1,0 +1,1 @@
+Completar el proyecto de Bits and Pizzas, para que las dos pestañas restantes (pasta y stores) recojan también el comportamiento programado para la pestaña Pizzas.

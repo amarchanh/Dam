@@ -1,0 +1,1 @@
+Rediseña la app de Starbuzz para resolver el diseño de la misma usando fragments. Se debe resolver los tres enlaces del menu inicial

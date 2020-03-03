@@ -1,0 +1,8 @@
+Rediseñar la app de Starbuzz para que las activities que cargan la lista de bebidas, alimentos, así como la de detalle de cada una de ellas sea genérica (es decir sea reutilizable). Así mismo añadir la activity para la opción Stores (listado compuesto por Madrid, Barcelona, Valencia).
+
+Listado de activities:
+
+TopLevelActivity (listado de Drinks, Foods y Stores).
+GenericCategoryActivity(listados de 3 bebidas, 3 comidas y 3 ubicaciones).
+DetailGenericActivity(detalle de alguna de las 3 bebidas o 3 comidas).
+GPSDetailActivity (activity vacia en este punto).
