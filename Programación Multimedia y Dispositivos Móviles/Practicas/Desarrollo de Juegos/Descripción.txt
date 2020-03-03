@@ -1,0 +1,23 @@
+UUTT / RRAA / CCEE
+
+UT5. Desarrollo de juegos 2D y 3D.
+
+5. Desarrolla juegos 2D y 3D sencillos utilizando motores de juegos.
+
+a) Se ha establecido la lógica de un nuevo juego. [Básico].
+
+b) Se han creado objetos y definido los fondos. [Básico].
+
+ENUNCIADO DEL TRABAJO
+
+Desarrolla y documenta un juego sencillo utilizando el motor de juegos de Unity. Para la documentación crea un documento en formato Word que contenga los siguientes apartados:
+
+1. Descripción del juego.
+
+Especificar la idea principal, el tipo y el género del juego.
+
+2. Diseño de la lógica del juego.
+
+Explicar el funcionamiento y las características del juego de forma clara y sencilla.
+
+Comprime la carpeta de la solución en un archivo .rar con la documentación y el código fuente de la solución y sube el archivo comprimido al Aula Virtual del módulo antes de la fecha y hora propuesta.

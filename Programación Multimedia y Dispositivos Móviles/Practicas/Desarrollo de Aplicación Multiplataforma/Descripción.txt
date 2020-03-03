@@ -1,0 +1,41 @@
+UUTT / RRAA / CCEE
+
+UT2. Programación de aplicaciones para dispositivos móviles.
+
+2. Desarrolla aplicaciones para dispositivos móviles analizando y empleando las tecnologías y librerías específicas.
+
+b) Se han analizado y utilizado las clases que modelan ventanas, menús, alertas y controles para el desarrollo de aplicaciones gráficas sencillas. [Básico].
+
+k) Se han realizado pruebas de interacción usuario-aplicación para optimizar las aplicaciones desarrolladas a partir de emuladores. [Básico].
+
+ENUNCIADO DEL TRABAJO
+
+Desarrolla la aplicación móvil multiplataforma para la plataforma Android a partir de la descripción planteada.
+
+Para ello realiza las siguientes tareas:
+
+La aplicación debe implementarse considerando la programación por capas, separando la capa de presentación, de la capa de negocio y de la capa de datos.
+
+La aplicación debe diseñarse utilizando las técnicas de programación orientadas a objetos contempladas en C#.
+
+La aplicación móvil debe almacenar la información de forma permanente en una base de datos SQLite.
+
+El código fuente de la aplicación debe estar totalmente documentado.
+
+Diseña el esquema E/R, el esquema Relacional y el esquema Físico.
+
+Diseña el diagrama de clases correspondiente a la aplicación.
+
+Desarrolla la solución de la aplicación móvil multiplataforma propuesta con Xamarin.Forms únicamente para la plataforma Android utilizando el entorno integrado de desarrollo Visual Studio.
+
+Diseña de la interfaz gráfica de la aplicación utilizando XAML para definir el contenido visual.
+
+Desarrolla la aplicación utilizando el lenguaje de programación C# para proporcionarle la funcionalidad correspondiente.
+
+La aplicación debe estar formada por varias páginas con un diseño básico. Deben aparecer al menos algunos de los siguientes elementos: etiquetas, botones, deslizadores, intervalos, interruptores, selectores de fecha y hora, cuadros de edición de texto, indicadores de actividad y barras de progreso.
+
+Implementa la lógica de negocio o modelos, donde se implementen las clases correspondientes a los tipos de objetos presentes en la aplicación.
+
+Implementa la capa de persistencia o de datos, donde se implementen los repositorios o almacenes de datos, es decir, la forma en la que se van a almacenar los datos que maneja la aplicación.
+
+Comprime la carpeta de la solución en un archivo .rar con toda la documentación y el código fuente de la solución y sube el archivo comprimido al Aula Virtual del módulo antes de la fecha y hora propuesta.

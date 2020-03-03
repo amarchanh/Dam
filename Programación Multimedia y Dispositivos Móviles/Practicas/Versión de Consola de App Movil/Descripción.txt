@@ -1,0 +1,21 @@
+UT1. Análisis de tecnologías para aplicaciones en dispositivos móviles.
+
+1. Aplica tecnologías de desarrollo para dispositivos móviles evaluando sus características y capacidades.
+
+g) Se ha analizado la estructura de aplicaciones existentes para dispositivos móviles identificando las clases utilizadas. [Básico].
+
+h) Se han realizado modificaciones sobre aplicaciones existentes. [Básico].
+
+ENUNCIADO DEL TRABAJO
+
+Desarrolla la versión de una aplicación de consola utilizando el lenguaje de programación C# a partir de la descripción de la aplicación para dispositivos móviles multiplataforma planteada.
+
+Para ello realiza las siguientes tareas:
+
+Desarrolla la interfaz de usuario, donde se implemente la manera en la que el usuario interactúa con la aplicación.
+
+Desarrolla la lógica de negocio, donde se implementen las clases correspondientes a los tipos de objetos presentes en la aplicación.
+
+Desarrolla la capa de persistencia, donde se implementen los repositorios o almacenes de datos, es decir, la forma en la que se van a almacenar los datos que maneja la aplicación.
+
+Comprime la carpeta de la solución en un archivo .rar y sube el archivo comprimido al Aula Virtual del módulo antes de la fecha y hora propuesta.
