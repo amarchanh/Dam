@@ -1,0 +1,2 @@
+Error: no se ha encontrado o cargado la clase principal EjemplodLectura
+Error: no se ha encontrado o cargado la clase principal EjemplodLectura

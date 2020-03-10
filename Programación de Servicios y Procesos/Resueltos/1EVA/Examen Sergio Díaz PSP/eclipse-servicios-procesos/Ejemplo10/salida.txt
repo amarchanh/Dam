@@ -1,0 +1,24 @@
+Microsoft Windows [Versi¢n 10.0.18362.449]
+(c) 2019 Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\virre\Documents\eclipse-servicios-procesos\Ejemplo10>MKDIR NUEVO
+
+C:\Users\virre\Documents\eclipse-servicios-procesos\Ejemplo10>CD NUEVO
+
+C:\Users\virre\Documents\eclipse-servicios-procesos\Ejemplo10\NUEVO>ECHO CREO FICHERO > Mifichero.txt
+
+C:\Users\virre\Documents\eclipse-servicios-procesos\Ejemplo10\NUEVO>DIR
+ El volumen de la unidad C es WinOS
+ El n£mero de serie del volumen es: EA42-70F4
+
+ Directorio de C:\Users\virre\Documents\eclipse-servicios-procesos\Ejemplo10\NUEVO
+
+31/10/2019  10:01    <DIR>          .
+31/10/2019  10:01    <DIR>          ..
+31/10/2019  10:01                15 Mifichero.txt
+               1 archivos             15 bytes
+               2 dirs  114.850.017.280 bytes libres
+
+C:\Users\virre\Documents\eclipse-servicios-procesos\Ejemplo10\NUEVO>DIRR
+
+C:\Users\virre\Documents\eclipse-servicios-procesos\Ejemplo10\NUEVO>¨M s? 

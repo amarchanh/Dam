@@ -1,0 +1,23 @@
+#include "stdio.h"
+#include "stdlib.h"
+#include "unistd.h"
+
+void main(){
+
+	int fd1[2];
+	int fd2[2];
+	char buffer[70];
+	char padre[]="Buenos dias hijo\0";
+	char hijo[]="Buenos dias padre\0";
+	pid_t pid;
+
+	pid = fork();
+
+	switch(pid){
+		case -1:	//FALLO AL CREAR EL PROCESO
+			exit(-1);
+		case 0:	
+	//DENTRO DEL HIJO
+			fd2[1
+	}//switch
+}//main

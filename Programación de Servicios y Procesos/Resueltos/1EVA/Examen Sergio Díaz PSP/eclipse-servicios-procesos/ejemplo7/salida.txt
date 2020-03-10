@@ -1,0 +1,16 @@
+ El volumen de la unidad C es WinOS
+ El n£mero de serie del volumen es: EA42-70F4
+
+ Directorio de C:\Users\virre\Documents\eclipse-servicios-procesos\ejemplo7
+
+29/10/2019  12:20    <DIR>          .
+29/10/2019  12:20    <DIR>          ..
+29/10/2019  12:18               301 .classpath
+29/10/2019  12:18               384 .project
+29/10/2019  12:18    <DIR>          .settings
+29/10/2019  12:18    <DIR>          bin
+29/10/2019  12:25                 0 error.txt
+29/10/2019  12:25                 0 salida.txt
+29/10/2019  12:18    <DIR>          src
+               4 archivos            685 bytes
+               5 dirs  116.988.674.048 bytes libres
