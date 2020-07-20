@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="textView_welcome">Bienvenido a la Aplicación de la Biblioteca Municipal</string>
+    <string name="textView_anadir">Por favor, añada un nuevo libro</string>
+    <!--
+    <string name="on">Hot</string>
+    <string name="off">Cold</string>
+    <string name="checkbox1">Milk</string>
+    <string name="checkbox2">Sugar</string>
+    <string name="checkbox3">Lemon</string>
+    <string name="text_button">Finish</string>
+    -->
+    <string name="editText_titulo">Título del libro</string>
+    <string name="editText_autor">Autor del libro</string>
+    <string name="editText_ano">Año de publicación</string>
+    <string name="textView_genero">Elige un Género</string>
+    <string-array name="spinner_genero">
+        <item>Acción</item>
+        <item>Drama</item>
+        <item>Ciencia Ficción</item>
+        <item>Terror</item>
+    </string-array>
+    <string name="checkBox_noticias">Quiero Recibir Alertas De Informativas </string>
+    <string name="boton_enviar">Añadir</string>
+    <string name="error">Ha ocurrido un error</string>
+</resources>
