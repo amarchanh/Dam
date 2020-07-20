@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
 
 namespace NotasConsola.CapaDatos {
 	class Archivo {
@@ -16,6 +17,8 @@ namespace NotasConsola.CapaDatos {
 			string[] lineas;
 			/** Lee todas la líneas del archivo y las almacena en un array de strings. */
 			lineas = File.ReadAllLines(NombreArchivo);
+
+			Console.WriteLine(lineas.Length);
 			/** Devuelve el array de strings. */
 			return lineas;
 		}

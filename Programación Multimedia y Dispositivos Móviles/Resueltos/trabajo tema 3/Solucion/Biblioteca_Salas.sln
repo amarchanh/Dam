@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca_Salas.Android", "Biblioteca_Salas\Biblioteca_Salas.Android\Biblioteca_Salas.Android.csproj", "{2E5CA1FA-4BAF-4861-9934-2BDCE322D7CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca_Salas", "Biblioteca_Salas\Biblioteca_Salas\Biblioteca_Salas.csproj", "{B2AFAE38-3226-4EE1-9700-234925D0EADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5CA1FA-4BAF-4861-9934-2BDCE322D7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5CA1FA-4BAF-4861-9934-2BDCE322D7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5CA1FA-4BAF-4861-9934-2BDCE322D7CA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2E5CA1FA-4BAF-4861-9934-2BDCE322D7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5CA1FA-4BAF-4861-9934-2BDCE322D7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E5CA1FA-4BAF-4861-9934-2BDCE322D7CA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B2AFAE38-3226-4EE1-9700-234925D0EADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AFAE38-3226-4EE1-9700-234925D0EADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AFAE38-3226-4EE1-9700-234925D0EADC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B2AFAE38-3226-4EE1-9700-234925D0EADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AFAE38-3226-4EE1-9700-234925D0EADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AFAE38-3226-4EE1-9700-234925D0EADC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED868789-F5A5-4AAB-941B-9785CAA0B2BA}
+	EndGlobalSection
+EndGlobal

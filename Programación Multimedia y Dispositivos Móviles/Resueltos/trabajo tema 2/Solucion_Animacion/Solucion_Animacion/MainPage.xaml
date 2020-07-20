@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Solucion_Animacion.MainPage"
+             BackgroundColor="White"
+             >
+    <!-- Layout que posiciona los elementos en vertical. -->
+    <StackLayout HorizontalOptions="Fill"
+                 Margin="0, 0, 0, 0">
+        <!-- Muestra el texto. -->
+        <Label x:Name="bienvenidos_label"
+               HorizontalOptions="Center"
+               Text="BIENVENIDOS"
+               FontSize="32"
+               Margin="0, 20, 0, 18"
+               />
+        <!-- Layout que posiciona los elementos en una línea horizontal. -->
+        <StackLayout Orientation="Horizontal"
+                     HorizontalOptions="Center">
+            <!-- Muestra el texto. -->
+            <Label x:Name="cargando"
+                   Text="cargando"
+                   FontSize="24"
+                   Margin="0, 0, 0, 15"
+                   />
+            <!-- Muestra el texto. -->
+            <Label x:Name="animacion_cargando"
+                   Text="."
+                   FontSize="24"
+                   Margin="0, 0, 0, 0"/>
+        </StackLayout>
+        <!-- Imagen de un libro. -->
+        <Image x:Name="libro"
+               Source="libro.png"
+               Margin="0, 0, 0, 80"/>
+        <!-- Muestra el texto. -->
+        <Label x:Name="biblioteca_label"
+               HorizontalOptions="Center"
+               Text="A LA BIBLIOTECA"
+               FontSize="32"/>
+
+    </StackLayout>
+
+</ContentPage>

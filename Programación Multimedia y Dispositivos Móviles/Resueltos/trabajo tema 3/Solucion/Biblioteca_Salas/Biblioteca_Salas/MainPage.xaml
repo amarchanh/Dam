@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Title="Bibloteca"
+             x:Class="Biblioteca_Salas.MainPage">
+    <!-- Layout que posiciona las cosas en vertical una debajo de otra. -->
+    <StackLayout Padding="20">
+        <!-- Muestra el texto. -->
+        <Label Text="Bienvenido a la Biblioteca. Elija una sala para realizar la reserva."
+               FontSize="25"/>
+        <!-- Boton que llama al método que crea una nueva página y envía la información. -->
+        <Button Text="Audiovisuales"
+                Clicked="ReservarAudiovisuales"/>
+        <!-- Boton que llama al método que crea una nueva página y envía la información. -->
+        <Button Text="Mediateca" 
+                Clicked="ReservarMediateca"/>
+        <!-- Boton que llama al método que crea una nueva página y envía la información. -->
+        <Button Text="Talleres" 
+                Clicked="ReservarTalleres"/>
+        <!-- Boton que llama al método que crea una nueva página y envía la información. -->
+        <Button Text="Humanidades" 
+                Clicked="ReservarHumanidades"/>
+    </StackLayout>
+
+</ContentPage>

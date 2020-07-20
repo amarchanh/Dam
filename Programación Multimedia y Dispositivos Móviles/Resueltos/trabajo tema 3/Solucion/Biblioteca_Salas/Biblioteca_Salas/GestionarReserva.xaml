@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Title="Reserva"
+             x:Class="Biblioteca_Salas.GestionarReserva">
+    <ContentPage.Content>
+        <!-- Layout que posiciona las cosas en vertical una debajo de otra. -->
+        <StackLayout Padding="20">
+            <!-- Rejilla que posiciona los objetos. -->
+            <Grid>
+                <!-- Define los atributos y el número de columnas -->
+                <Grid.ColumnDefinitions>
+                    <!-- Especifica los atributos de cada columna -->
+                    <ColumnDefinition Width="60" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <!-- Muestra el texto. -->
+                <Label Text="Sala:" FontSize="25"/>
+                <!-- Recoge el texto de la propiedad. -->
+                <Label Grid.Column="1" x:Name="sala" Text="{Binding Nombre_Sala}" FontSize="25"/>
+            </Grid>
+            <!-- Muestra el texto. -->
+            <Label Text="Horas reservadas:" FontSize="25"/>
+            <!-- Recoge el texto de la propiedad. -->
+            <Label x:Name="horas_reservadas" Text="{Binding Hora_Reserva}" FontSize="20"/>
+            <!-- Selector que en el que eliges la hora de reserva. -->
+            <Picker x:Name="picker"
+                    Title="Selecciona una hora"
+                    SelectedIndexChanged="MostrarMotivoReserva">
+                <!-- Opciones del selector -->
+                <Picker.ItemsSource>
+                    <!-- Array de strings -->
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>10:00</x:String>
+                        <x:String>11:00</x:String>
+                        <x:String>12:00</x:String>
+                        <x:String>13:00</x:String>
+                        <x:String>14:00</x:String>
+                        <x:String>15:00</x:String>
+                        <x:String>16:00</x:String>
+                        <x:String>17:00</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <!-- Muestra el texto de error. -->
+            <Label x:Name="error" Text="" TextColor="Red"/>
+            <!-- Recoge el texto que introduzca el usuario.  -->
+            <Editor x:Name="motivo"
+                Placeholder="Motivo de la Reserva"
+                Text="{Binding Motivo_Reserva}"/>
+            <!-- Muestra el texto si la acción ha sido realizada correctamente. -->
+            <Label x:Name="info_reserva" Text="" TextColor="Green"/>
+            <!-- Rejilla que posiciona los objetos. -->
+            <Grid>
+                <!-- Define los atributos y el número de columnas -->
+                <Grid.ColumnDefinitions>
+                    <!-- Especifica los atributos de cada columna -->
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <!-- Botón que llama al método que guarda la información de la reserva -->
+                <Button Text="Save"
+                        Clicked="OnSaveButtonClicked"/>
+                <!-- Botón que llama al método que borra la información de la reserva -->
+                <Button Grid.Column="1"
+                        Text="Delete" 
+                        Clicked="OnDeleteButtonClicked"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
