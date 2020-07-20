@@ -1,0 +1,12 @@
+1. Simulación del comportamiento de un formulario de Login
+
+
+SIguiendo el ejemplo del primer proyecto realizado en clase con Android Studio simular el comportamiento de un formulario de Login en una activity de Android. 
+
+Solamente se debe mostrar un mensaje en un campo TextView dentro del unico activity del proyecto, indicando si dicho login ha sido exitoso o no. 
+
+El usuario sobre el que se compara es:
+
+login: pepe@correo.es
+
+clave: P@ssword

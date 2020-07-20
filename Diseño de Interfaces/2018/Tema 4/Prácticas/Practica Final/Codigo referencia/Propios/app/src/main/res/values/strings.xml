@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InformaticaVirrey</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subjectDam_title">Modulo DAM</string>
+    <string name="scheduleDam_title">Horario Modulo DAM</string>
+    <string name="teacherDam_title">Profesor Modulo DAM</string>
+    <string name="descriptionDam_title">Descripción Modulo DAM</string>
+
+    <string-array name="courses">
+        <item>DAM</item>
+        <item>DAW</item>
+        <item>SMR</item>
+    </string-array>
+</resources>

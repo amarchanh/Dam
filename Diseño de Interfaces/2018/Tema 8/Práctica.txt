@@ -1,0 +1,7 @@
+Manual de usuario y presentación
+
+Se debe realizar un pequeño manual o tutorial en PDF de la aplicación de wireframing asignada por el profesor en clase. Además se expondra el uso y manejo de dicha herramienta mediante una presentación al resto de la clase, en el día fijado. 
+
+La extensión de dicha presentación no podrá ser inferior a 10 minutos ni superior a 20. 
+
+La asignación de herramientas se realizará por sorteo.

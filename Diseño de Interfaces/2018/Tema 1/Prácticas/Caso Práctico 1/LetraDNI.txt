@@ -1,0 +1,51 @@
+package dam;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class LetraDNI {
+	/*
+	*
+	* Author: Antonio Marchante
+	* Descripcion: Clase que, dado un numero de DNI devuelve al usuario la letra asociada a dicho DNI
+	*
+	*/
+	
+	
+	public static void main(String[] args) {
+		
+		// Array de letras 
+		final char letras [] = {'T', 'R', 'W', 'A', 'G', 'M', 'Y', 'F', 'P', 'D', 'X', 'B', 'N', 'J', 'Z', 'S', 
+				'Q', 'V', 'H', 'L', 'C', 'K', 'E'};
+		
+		Integer dni = null;
+		
+		// Número por el que se divide el DNI para hallar la posicion en el Array de letras
+		final Integer division = 23;
+		
+		// Lectura del número introducido por el usuario, controlando las posibles excepciones
+		try {
+			BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+			System.out.println("Introduzca número DNI:");
+			dni = Integer.parseInt(br.readLine());
+		}
+		// Excepcion al introducir número (no es un entero)
+		catch (NumberFormatException ne) {
+			System.out.println("Número DNI inválido. Error: " + ne);
+			System.exit(0);
+		}
+		// Excepcion al inicializar la lectura por parte del usuario
+		catch (IOException ioe) {
+			System.out.println("IO Error: " + ioe);
+			System.exit(0);
+		}
+		
+		// Posición de la letra dentro del Array (resto del número del DNI entre 23)
+		int posicion = dni%division;
+		
+		// Resultado
+		System.out.println("La letra asociada al DNI " +dni+ " es: " + letras[posicion]);
+		System.out.println("DNI completo: " +dni+letras[posicion]);
+		}
+	}

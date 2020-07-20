@@ -1,0 +1,13 @@
+2. App Interactiva
+
+
+Diseña y codifica una app tomando como ejemplo el proyecto Capitulo2 disponible en el apartado de Contenidos. Vuestra APP tendra que mostrar un mensaje que le indique al usuario lo que va a realizar: 
+
+Buscar la asignatura que imparte un determinado profesor. 
+El spinner mostrará el nombre de cada profesor.
+El usuario deberá seleccionar uno, y la app le mostrará la asignatura que imparte dicho profesor.
+La app constará de una unica activity. En el fichero de layout de esta activity deberán incorporarse los siguientes elementos:
+
+2 TextViem.
+1 Spinner.
+1 Button.

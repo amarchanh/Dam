@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Collage</string>
+    <string name="text">This is a text view</string>
+    <string name="edit_text">To</string>
+    <string name="button_text">Click Me!</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="label_toggled">Estado del boton Toggled</string>
+    <string name="label_switch">Estado del boton Switch</string>
+    <string name="cbyes">YES</string>
+    <string name="cbno">NO</string>
+</resources>

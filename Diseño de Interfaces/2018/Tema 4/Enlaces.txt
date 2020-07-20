@@ -1,0 +1,3 @@
+https://developer.android.com/guide/components/activities?hl=es-419#Lifecycle  
+
+https://developer.android.com/guide/components/fragments

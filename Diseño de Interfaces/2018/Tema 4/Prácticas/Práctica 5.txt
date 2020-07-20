@@ -1,0 +1,14 @@
+5. Practica-Ch7
+
+Se solicita que se realice una app que cumpla los siguientes requisitos:
+
+Presente un diseño en tres niveles (Nivel Principal-Nivel Categoria-Nivel de detalle).
+Especificar este diseño de pantallas y el correspondiente flujo realizando un diagrama con draw.io
+En la app se deben incorporar al menos una clase Java propia.
+En la app deben aparecer los nuevos elementos incorporados: listener y adaptadores.
+En la app deben aparecer imagenes.
+Se valorará la incorporación de otros elementos de diseño (Casillas de verificación, radio button, spinner, etc).
+El fichero de entrega debe contener: 
+
+El diseño de pantallas y flujo de navegación entre ellas en PDF.
+El fichero comprimido con el proyecto realizado en Android Studio.

@@ -1,0 +1,15 @@
+3. Practica-Ch5
+
+Practica correspondiente al capitulo 5 del libro de referencia. 
+
+Genera una app cuya interface sea la que se muestra en la imagen. 
+
+El comportamiento es el siguiente:
+
+Al seleccionar el boton ToggleButton cambiara entre Hot y Cold. 
+
+El cliente podra elegir luego el resto de opciones. 
+
+Existira un boton Order Selection (Texto del Boton) que dara paso a una nueva pantalla donde al cliente se le mostrará un resumen de lo elegido. En esta pantalla podra confirmar el pedido, mediante un boton (se le informará mediante un Toas que el pedido se esta preparando.
+
+Se puede implementar la funcionalidad dentro de la misma pantalla si se desea.

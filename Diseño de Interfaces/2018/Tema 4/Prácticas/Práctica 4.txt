@@ -1,0 +1,3 @@
+4. Practica-Ch6
+
+Realizar un diseño de interfaz de usuario como el que se muestra en la imagen adjunta. No es necesario añadir comportamientos.

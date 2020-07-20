@@ -1,0 +1,38 @@
+Práctica II: Wireframing
+====================================
+
+Con esta práctica aprenderemos a definir la estructura de navegación de nuestra aplicación y nos familiarizaremos con las técnicas de prototipado más básicas: sketching y wireframing.
+
+En esta practica deberemos decidir qué estructura tendrá nuestra aplicación y definir su árbol de navegación completo. También realizaremos los primeros bocetos de su interfaz. Aquí es donde soltaremos todo nuestro potencial creativo, y empezaremos a dar forma a nuestras ideas.
+
+El árbol de navegación nos permitirá averiguar cuántas pantallas necesitará nuestra aplicación (aunque es posible que este número cambie más adelante) y establecer una jerarquía. ¿Cómo se moverá el usuario por la aplicación? ¿Necesitaremos un menú? ¿Tendremos que dedicar un apartado a la ayuda? ¿Nos ha quedado un callejón sin salida pendiente de resolver? Dibujando el árbol de navegación responderemos a estas y otras muchas preguntas.
+
+El árbol de navegación debe indicar claramente el recorrido que hará el usuario pantalla a pantalla (se pueden utilizar flechas para indicar el sentido del recorrido).
+
+Una vez tengamos el árbol, es hora de empezar a pintar alguna pantalla. Al principio es mejor hacerlo con un papel y lápiz, sin centrarnos demasiado en los detalles. Aquí lo más importante es captar la esencia de nuestra aplicación.
+
+A continuación, algunos ejemplos que os pueden servir de inspiración:
+
+http://smashinghub.com/15-amazing-wireframe-mockup-sketches.htm
+
+http://designmodo.com/web-mobile-wireframe-sketches/
+
+Cuando tengamos las ideas un poco más claras, es hora de usar una herramienta de prototipado rápido. En los materiales encontraréis reseña de herramientas recomendadas (balsamiq, ninjamock, pop, draw.io), pero podéis usar cualquier otra que encontréis en Internet.
+
+ GUIA DEL DOCUMENTO A ENTREGAR
+
+1.    Frase descriptiva de la aplicación de la Practica 1.
+
+2.    Árbol de navegación de la app con TODAS las pantallas.
+
+3.    Escaneado de los primeros esbozos de la app a papel y lápiz. No hace falta que sea toda la app, pero sí debe incluir las pantallas más importantes.
+
+4.    Prototipos en baja fidelidad realizados con una herramienta digital. No hace falta que sea toda la app, pero sí debe incluir las pantallas más importantes.
+
+5.    Memoria del trabajo realizado. (Extensión libre)
+
+Formato de entrega: Carpeta zip con un documento en formato PDF (con la memoria) y las imágenes o escaneados de los prototipos (.jpeg, .png, .gif). Si se prefiere, se puede presentar todo en un solo documento PDF con las imágenes incrustadas, pero el tamaño y calidad de las imágenes ha de permitir su correcta evaluación. 
+Nomenclatura: ApellidosNombre_DPIM_PracticaFinal2.zip / .pdf
+
+Anexa al enunciado de la práctica teneis un modelo de memoria, sketching y wireframing (realizado con draw.io) de la aplicación seleccionada por mi. Podeís tomarla como posible referencia
+

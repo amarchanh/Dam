@@ -1,0 +1,7 @@
+6. Practica-Ch8
+
+Sobre la aplicación anterior realizar las siguientes modificaciones:
+
+Añadir una toolbar en todas las pantallas.
+Incorporar en la toolbar, un boton para añadir un nuevo item a la clase Java que esteis tratando en ese momento. 
+Incorporar la pantalla para añadir dicho elemento. Esta pantalla puede ser única (se valorará el hecho de que así sea, o bien se puede crear una pantalla para cada uno de los tipos de elemento a insertar).

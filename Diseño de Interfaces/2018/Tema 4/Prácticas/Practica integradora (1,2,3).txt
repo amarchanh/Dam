@@ -1,0 +1,9 @@
+Practica Integradora Apps (1-2-3)
+Práctica integradora consistente en realizar una aplicación que siga el esquema de navegación que se facilita. 
+
+El funcionamiento es el siguiente:
+
+MainActivity: pantalla principal de la app. Mostrara un spinner donde se podrá elegir entre un menu de 3 activities. Con una de ellas seleccionada, el boton Abrir Activity nos debe abrir la activity seleccionada.
+Activity 1: mostrará un TextView con el nombre de la activity.
+Activity 2: mostrará un TextView con el nombre de la activity, un EditText donde escribir un mensaje, y un botón para enviar el mensaje a la activity 3.
+Activity 3: mostrará un TextView con el nombre de la activity, un TextView que mostrará el mensaje enviado por la activity 2.

@@ -1,0 +1,35 @@
+Práctica 1
+========================
+
+El objetivo de esta práctica es iniciarnos en el proceso de desarrollo de una aplicación para dispositivos móviles (teléfono o tableta), empezando por la fase de conceptualización y definición de sus funciones
+
+Esta  práctica consiste en completar el primer paso en el proceso de desarrollo de una aplicación móvil, definiendo bien las bases del proyecto y su alcance. Las prácticas 2 y 3 continuarán este proceso, desde los primeros bocetos con papel y lápiz hasta finalizar con un prototipo en alta definición de la aplicación, punto previo a su programación.
+
+El punto de partida, la temática de la aplicación, será el mismo para todos: el tiempo. 
+
+Podemos, por ejemplo, pensar desde un simple calendario hasta un despertador inteligente, pasando por herramientas para el cálculo de horas dedicadas a una actividad -trabajar, hacer deporte, dormir...- o indicar las horas restantes hasta un evento, herramientas que ayuden a ahorrar tiempo en actividades cotidianas, para la consulta de horarios...
+
+Benchmarking en las tiendas de aplicaciones
+Una vez decidido el enfoque, y para obtener un punto de partida sólido sobre el que empezar a trabajar, debemos comprobar qué soluciones ofrece el mercado actualmente. Cada día se publican miles de nuevas aplicaciones en las diferentes tiendas existentes, por lo que identificar nuestra potencial competencia y analizar sus fortalezas y debilidades resulta imprescindible. ¿En qué vamos a diferenciarnos?
+
+En este punto deberemos recurrir a los diferentes métodos de indagación estudiados: observación, seguimiento, entrevistas, encuestas... Con los datos obtenidos, deberemos elaborar los diferentes perfiles de usuario para nuestra aplicación y confeccionar al menos una ficha de persona describiendo al usuario potencial de nuestra aplicación. También describiremos alguno de los posibles escenarios donde usará nuestra aplicación para resolver su necesidad.
+
+Definición de las funciones
+Llegados a este punto, tendremos que hacer un listado con todas las funciones que quisiéramos que tuviera nuestra aplicación. Recordad que en caso de duda sobre la utilidad de una función deberemos recurrir a nuestra definición de usuario y sus necesidades, descartando aquellas que no le aporten ningún valor.
+
+De este primer listado deberemos indicar claramente qué funciones son las más importantes de nuestra aplicación, su "corazón".
+
+Descripción de la aplicación
+Finalmente, deberemos ser capaces de describir con una sola frase, lo más breve posible, para qué sirve vuestra aplicación. La frase debe ser descriptiva, no un reclamo comercial.
+
+
+
+Guía para el índice del documento a entregar
+Presentación y temática escogida para la aplicación. Criterios de elección, necesidades detectadas, enfoque del producto o servicio. (Extensión libre)
+Benchmarking en las tiendas de aplicaciones. Puntos fuertes y debilidades de soluciones parecidas a la nuestra. (Extensión libre)
+Investigación y requisitos de usuario. Ficha/s de persona y escenario. (Entre200- 250 palabras por ficha)
+Definición de las funcionalidades de la aplicación en formato lista, identificando claramente las más importantes. (Extensión libre)
+Descripción de la aplicación. (Una frase, lo más breve posible)
+
+
+Formato de entrega: Documento en formato PDF (Practica1_ModeloAlumnos)

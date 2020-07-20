@@ -1,0 +1,19 @@
+Practica Integradora Final (Android)
+Tomando como base la app desarrollada en el apartado Ch8 dedicado a fragments, se solicita realizar una similar que muestre las pantallas sugeridas en la imagen, y con los datos que aparecen en la imagen. La inclusión de las fotografias del profesorado es opcional. 
+
+En el documento adjunto se especifica las interfaces a crear. 
+
+A partir de subir el proyecto con la app terminada, se debe incluir un breve manual de usuario de uso y funcionamiento de la aplicación para usuarios iniciados (es decir, detallar la secuencia de pasos que ocurren desde que la app se lanza en el movil hasta que cada una de las pantallas es mostrada). Podeis tomar como referencia los diagramas explicativos que ofrece el libro de Android en su capitulo 8.
+
+La aplicación debe quedar desarrollada en tres níveles:
+
+
+
+Nivel I: Pantalla de estudios de FP del Centro.
+Nivel II: Pantalla listamos módulos nivel de estudios seleccionado.
+Nivel III: Pantalla detalle modulo seleccionado.
+
+
+
+Código de referencia:
+https://drive.google.com/file/d/1-ST_5NG3_wkZ3asrOzpyfAeJ1Ob7xm1n/view
