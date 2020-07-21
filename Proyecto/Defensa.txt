@@ -1,0 +1,10 @@
+Normas para la defensa del Proyecto
+La defensa del Proyecto será realizada por el alumno, de manera pública y presencial.
+
+Se dispone de un tiempo máximo para la defensa del mismo, que en ningún caso podrá exceder los 10 minutos.
+
+La defensa del proyecto consiste en realizar una breve explicación y demostración del funcionamiento de la aplicación creada.
+
+El contenido de la explicación y demostración deberá estar relacionado con la Memoria del Proyecto entregada.
+
+El alumno deberá contestar con posterioridad a las preguntas, aclaraciones, comentarios y sugerencias que pudieran plantearle.
